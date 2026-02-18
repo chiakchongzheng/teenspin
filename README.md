@@ -28,7 +28,7 @@ A fun **Progressive Web App (PWA)** to help teenagers discover their future care
 
 ## 🚀 Live Demo
 
-**[👉 View Live Demo](https://your-vercel-url.vercel.app)** ← Deploy to Vercel to get your URL
+**[👉 View Live Demo](https://teenspin.vercel.app)** ← Deploy to Vercel to get your URL
 
 ---
 

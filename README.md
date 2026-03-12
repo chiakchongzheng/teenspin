@@ -76,7 +76,7 @@ Each occupation includes **5 free learning resources** from top platforms like M
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/teenspin.git
+git clone https://github.com/chiakchongzheng/teenspin.git
 
 # Navigate to project
 cd teenspin
@@ -99,7 +99,7 @@ npm run dev
 3. Import your repository
 4. Deploy! 🎉
 
-Your app will be live at: `https://your-app-name.vercel.app`
+Your app will be live at: `https://teenspin.vercel.app`
 
 ---
 
